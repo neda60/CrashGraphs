@@ -1,0 +1,9 @@
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\bin\Debug\CrashGraphs.exe.config
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.csprojResolveAssemblyReference.cache
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.CrashGraph2.resources
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.Properties.Resources.resources
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.csproj.GenerateResource.Cache
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\bin\Debug\CrashGraphs.exe
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\bin\Debug\CrashGraphs.pdb
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.exe
+C:\Users\Neda\Documents\Visual Studio 2015\Projects\CrashGraphs\CrashGraphs\obj\Debug\CrashGraphs.pdb
